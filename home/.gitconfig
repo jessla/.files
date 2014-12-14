@@ -29,3 +29,5 @@
     path = ~/.gitconfig.local
 [rerere]
     enabled = true
+[user]
+	email = jess@github.com
